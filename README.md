@@ -1,2 +1,1 @@
-# python
-Simple Encode and Decode
+converter string to number
